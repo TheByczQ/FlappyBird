@@ -5,3 +5,6 @@ Celem projektu było stworzenie gry ”Flappy bird”, a następnie nauczenie si
 * Python
 * NEAT
 * pygame.
+
+# Licencja
+Ten projekt jest objęty licencją MIT - szczegółowe informacje można znaleźć w pliku [LICENSE](https://github.com/TheByczQ/FlappyBird/blob/main/LICENSE).
